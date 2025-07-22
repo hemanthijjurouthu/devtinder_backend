@@ -2,10 +2,6 @@
 
 DevTinder is a developer matchmaking web application inspired by Tinder, but built specifically for the dev community. Whether you're looking for a coding partner, project collaborator, or just someone who vibes with your tech stack, DevTinder helps developers discover and connect based on skills, interests, and GitHub activity.
 
-## 🔗 Live Demo
-Check out the live version of the app here:  
-👉 [DevTinder Live](http://ijjurouthu.duckdns.org)
-
 ## 🌐 Frontend Repository
 GitHub Link: [DevTinder Frontend](https://github.com/hemanthijjurouthu/devtinder_frontend)
 
